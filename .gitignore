@@ -1,0 +1,21 @@
+# Unity-generated local data and builds
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/UserSettings/
+/MemoryCaptures/
+
+# Local IDE settings and generated solution files
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.tmp
+
+# Assets (including .meta), Packages and ProjectSettings are tracked.
